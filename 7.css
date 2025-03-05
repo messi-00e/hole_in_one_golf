@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(106, 155, 155);
+}
+p{
+  text-align: right;
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+}
+button {
+  background-color: darkseagreen;
+  border: none;
+  color: white;
+  padding: 20px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 31px;
+  margin: 20px 20px;
+  cursor: pointer;
+}

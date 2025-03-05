@@ -1,0 +1,27 @@
+body {
+  background-image: url("home.png");
+  background-size: 1120px;
+
+}
+  h3 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 57px;
+  }
+
+  button {
+    background-color: rgb(162, 177, 132);
+    border: none;
+    color: rgb(221, 207, 207);
+    padding: 105px 105px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 27px;
+    margin: 20px 20px;
+    cursor: pointer;
+    font-family: bold;
+  }
+  button a {
+    color: rgb(0, 0, 0);
+  }
